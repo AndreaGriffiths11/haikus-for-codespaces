@@ -1,6 +1,7 @@
 
-# Haikus for Codespaces
+# Haikus para Codespaces
 
-This is a quick node project template for demoing Codespaces. It is based on the [Azure node sample](https://github.com/Azure-Samples/nodejs-docs-hello-world). It's great!!!
+Esta es una plantilla de proyecto de nodo rápido para demostrar Codespaces. Se basa en el [ejemplo de nodo de Azure](https://github.com/Azure-Samples/nodejs-docs-hello-world). 
 
-Point your browser to [Quickstart for GitHub Codespaces](https://docs.github.com/en/codespaces/getting-started/quickstart) for a tour of using Codespaces with this repo.
+¡¡¡Es genial!!! Dirija su navegador a [Empezando con GitHub Codespaces](https://docs.github.com/en/codespaces/getting-started/quickstart) para un recorrido por el uso de Codespaces con este repositorio.
+
